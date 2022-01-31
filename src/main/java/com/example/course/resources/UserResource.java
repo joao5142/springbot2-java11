@@ -18,4 +18,7 @@ public class UserResource {
         	return ResponseEntity.ok().body(u);/*lança o status 200 e joga no corpo da resposta 
         	 o usuario já no formato json */
         }
+	    
+	    
+	    
 }
